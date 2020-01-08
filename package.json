@@ -1,0 +1,8 @@
+{
+  "name": "polymer-bridges",
+  "version": "1.0.0",
+  "description": "Polymer legacy support for Gerrit Code Review",
+  "author": "The Polymer Project Authors",
+  "license": "BSD-3-Clause",
+  "private": true
+}
