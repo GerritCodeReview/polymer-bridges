@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4942677f_34411dd4",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1086906
+      },
+      "writtenOn": "2020-01-15T12:27:17Z",
+      "side": 1,
+      "message": "i am confused by this part, how can the code work without having the `goog` defined somewhere ? if you intend to provide a placeholder for `goog.declareModuleId`, then can you mention that as well ? Basically i feel clueless after reading this on how to use this lib, and a standard repo or project should at least have some info on that.\n\nAs the \"temporary code\" will stay for quite a while i believe as we need to maintain last two releases + release twice a year. So this code is gonna stay for \u003e 1 year under our maintenance and forever in the history (branches). I will suggest to have better documentation on how you plan to use it. So who ever other than you want to touch this part can have some minimal info to start with.",
+      "range": {
+        "startLine": 6,
+        "startChar": 91,
+        "endLine": 7,
+        "endChar": 41
+      },
+      "revId": "a68ef131ebcf4a9c00695ca1e442248ed3666a20",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
