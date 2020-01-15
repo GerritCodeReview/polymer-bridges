@@ -22,6 +22,30 @@
       "revId": "a68ef131ebcf4a9c00695ca1e442248ed3666a20",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3eb76801_e34de178",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1085901
+      },
+      "writtenOn": "2020-01-15T13:05:14Z",
+      "side": 1,
+      "message": "This folder will be added as a submodule to gerrit project.\npolygerrit-ui/app/package.json will reference local folder (with submodule).\n\n\u003e\u003e if you intend to provide a placeholder for `goog.declareModuleId`\nit is already exists - see https://gerrit-review.googlesource.com/c/polymer-bridges/+/249861/4/polymer/lib/utils/boot_bridge.js",
+      "parentUuid": "4942677f_34411dd4",
+      "range": {
+        "startLine": 6,
+        "startChar": 91,
+        "endLine": 7,
+        "endChar": 41
+      },
+      "revId": "a68ef131ebcf4a9c00695ca1e442248ed3666a20",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }

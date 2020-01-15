@@ -222,6 +222,30 @@
       "revId": "d41936f4579842e05928f672c586b8da36016f45",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f4e3c5de_beffa3cc",
+        "filename": "polymer/polymer-legacy_bridge.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1085901
+      },
+      "writtenOn": "2020-01-15T13:05:14Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5fc34c61_69314b70",
+      "range": {
+        "startLine": 30,
+        "startChar": 29,
+        "endLine": 30,
+        "endChar": 37
+      },
+      "revId": "d41936f4579842e05928f672c586b8da36016f45",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
