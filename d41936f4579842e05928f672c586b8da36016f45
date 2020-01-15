@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "8816265f_1f3b2dab",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1085901
+      },
+      "writtenOn": "2020-01-15T12:09:05Z",
+      "side": 1,
+      "message": "I want to have the first 2 sentences in the same paragraph and then I want to start a new paragraph.",
+      "parentUuid": "0631258f_8f5a9f48",
+      "revId": "d41936f4579842e05928f672c586b8da36016f45",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
         "uuid": "fee45b4e_5dbe9432",
         "filename": "package.json",
         "patchSetId": 2
@@ -42,6 +60,30 @@
     },
     {
       "key": {
+        "uuid": "5bb8c0a4_dc9cd2de",
+        "filename": "package.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1085901
+      },
+      "writtenOn": "2020-01-15T12:09:05Z",
+      "side": 1,
+      "message": "I removed all non-important parts from package.json - we are not going to publish this package.",
+      "parentUuid": "fee45b4e_5dbe9432",
+      "range": {
+        "startLine": 7,
+        "startChar": 44,
+        "endLine": 7,
+        "endChar": 50
+      },
+      "revId": "d41936f4579842e05928f672c586b8da36016f45",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "f21ed33f_628d8fdb",
         "filename": "package.json",
         "patchSetId": 2
@@ -56,6 +98,24 @@
       "revId": "d41936f4579842e05928f672c586b8da36016f45",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "dbcf1a96_7c8b81a6",
+        "filename": "package.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1085901
+      },
+      "writtenOn": "2020-01-15T12:09:05Z",
+      "side": 1,
+      "message": "I removed all non-important parts from package.json - we are not going to publish this package.",
+      "parentUuid": "f21ed33f_628d8fdb",
+      "revId": "d41936f4579842e05928f672c586b8da36016f45",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     },
     {
       "key": {
@@ -76,6 +136,24 @@
     },
     {
       "key": {
+        "uuid": "a106d7f4_ac656aa7",
+        "filename": "package.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1085901
+      },
+      "writtenOn": "2020-01-15T12:09:05Z",
+      "side": 1,
+      "message": "I copied it from polymer package.json, but it is not needed. Removed.",
+      "parentUuid": "ff184692_7bf10e96",
+      "revId": "d41936f4579842e05928f672c586b8da36016f45",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "64c302aa_26170d60",
         "filename": "polymer/polymer-legacy_bridge.js",
         "patchSetId": 2
@@ -87,6 +165,30 @@
       "writtenOn": "2020-01-15T09:26:43Z",
       "side": 1,
       "message": "don\u0027t you need to have `polymer` in your dependencies in package.json ? or is this just bridges code only ?\n\nA more generic question, since it doesn\u0027t have a BUILD file or build rules in package.json, its not clear how to use it. And I thought one of the reason we want to have it in a separate repo is the possibility of it being helpful to someone else. Some instructions of how to use this lib will be very helpful",
+      "range": {
+        "startLine": 30,
+        "startChar": 29,
+        "endLine": 30,
+        "endChar": 37
+      },
+      "revId": "d41936f4579842e05928f672c586b8da36016f45",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "4988f086_104b6fc2",
+        "filename": "polymer/polymer-legacy_bridge.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1085901
+      },
+      "writtenOn": "2020-01-15T12:09:05Z",
+      "side": 1,
+      "message": "We put it to a separate repository because we don\u0027t want to add third-party code directly to a gerrit repository and to avoid unnecessary complexity regarding licenses.\nAdditionally, this is a temporary code, it should be removed after removing html imports (also in plugins).\n\nWe are not going to publish it as a separate package - this is for gerrit only. It might be, that the polymer team will publish separate package, but they will do it from their own source.",
+      "parentUuid": "64c302aa_26170d60",
       "range": {
         "startLine": 30,
         "startChar": 29,
