@@ -1,0 +1,101 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0631258f_8f5a9f48",
+        "filename": "README.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1086906
+      },
+      "writtenOn": "2020-01-15T09:26:43Z",
+      "side": 1,
+      "message": "not sure if you need a new line in between or not ? if so, you will need to have a blank line in between (the convention when converting markdown to html).\n\nYou can preview it from: \nhttps://gerrit.googlesource.com/polymer-bridges/+/refs/changes/61/249861/2/README.md",
+      "revId": "d41936f4579842e05928f672c586b8da36016f45",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "fee45b4e_5dbe9432",
+        "filename": "package.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1086906
+      },
+      "writtenOn": "2020-01-15T09:26:43Z",
+      "side": 1,
+      "message": "`polymer-bridges` ?",
+      "range": {
+        "startLine": 7,
+        "startChar": 44,
+        "endLine": 7,
+        "endChar": 50
+      },
+      "revId": "d41936f4579842e05928f672c586b8da36016f45",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "f21ed33f_628d8fdb",
+        "filename": "package.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1086906
+      },
+      "writtenOn": "2020-01-15T09:26:43Z",
+      "side": 1,
+      "message": "should we have the homepage to be link to this repo instead ?",
+      "revId": "d41936f4579842e05928f672c586b8da36016f45",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "ff184692_7bf10e96",
+        "filename": "package.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1086906
+      },
+      "writtenOn": "2020-01-15T09:26:43Z",
+      "side": 1,
+      "message": "i am not familiar with the `publishConfig` at all, what does it mean by having the `access` as `public` without specifying the `tag` or `registry` ? and do we want to publish it at all ? i think by default it should be public available, no need to publish right ?",
+      "revId": "d41936f4579842e05928f672c586b8da36016f45",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "64c302aa_26170d60",
+        "filename": "polymer/polymer-legacy_bridge.js",
+        "patchSetId": 2
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1086906
+      },
+      "writtenOn": "2020-01-15T09:26:43Z",
+      "side": 1,
+      "message": "don\u0027t you need to have `polymer` in your dependencies in package.json ? or is this just bridges code only ?\n\nA more generic question, since it doesn\u0027t have a BUILD file or build rules in package.json, its not clear how to use it. And I thought one of the reason we want to have it in a separate repo is the possibility of it being helpful to someone else. Some instructions of how to use this lib will be very helpful",
+      "range": {
+        "startLine": 30,
+        "startChar": 29,
+        "endLine": 30,
+        "endChar": 37
+      },
+      "revId": "d41936f4579842e05928f672c586b8da36016f45",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
