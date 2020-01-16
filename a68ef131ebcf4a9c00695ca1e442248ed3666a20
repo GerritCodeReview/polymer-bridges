@@ -70,6 +70,30 @@
       "revId": "a68ef131ebcf4a9c00695ca1e442248ed3666a20",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "72a0c1c0_61122fef",
+        "filename": "README.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1085901
+      },
+      "writtenOn": "2020-01-16T10:39:07Z",
+      "side": 1,
+      "message": "Rewrote README to include this information",
+      "parentUuid": "dfdf2e40_b9b1055d",
+      "range": {
+        "startLine": 6,
+        "startChar": 91,
+        "endLine": 7,
+        "endChar": 41
+      },
+      "revId": "a68ef131ebcf4a9c00695ca1e442248ed3666a20",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }
