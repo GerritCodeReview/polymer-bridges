@@ -1,3 +1,7 @@
-# UUID                  	Group Name
+# UUID                                                        	Group Name
 #
-mdb:gerritcodereview-eng	mdb/gerritcodereview-eng
+24570b0b94101debd911e621add4bd51ac3fc348                      	gerrit-release-creators
+global:Change-Owner                                           	Change Owner
+global:Project-Owners                                         	Project Owners
+global:Registered-Users                                       	Registered Users
+google:AI2Pq9rwJtXWrKQ9Q62CcHSid7ngIF2hCfJ4bSpVquX_P2z5kFM6v9s	google/gerritcodereview-maintainers@googlegroups.com
