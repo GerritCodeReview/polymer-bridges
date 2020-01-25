@@ -13,5 +13,5 @@ necessary to use google-closure-library - the polymer/lib/utils/boot_bridge.js
 file provides placoholders for it.
 
 Note: it is expected, that this repository is used only during transition
-period (Polymer 2 -> Polymer 3). After the transitition is complete (including Plugins),
+period (Polymer 2 -> Polymer 3). After the transition is complete (including plugins),
 the submodule will be removed from gerrit repository.
