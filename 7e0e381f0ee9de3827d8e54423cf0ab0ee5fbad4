@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "4f08ef04_36c12263",
+        "filename": "package.json",
+        "patchSetId": 3
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1085901
+      },
+      "writtenOn": "2020-01-27T09:49:08Z",
+      "side": 1,
+      "message": "What is the reason to have sub folders as a dependencies?",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 62
+      },
+      "revId": "7e0e381f0ee9de3827d8e54423cf0ab0ee5fbad4",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
