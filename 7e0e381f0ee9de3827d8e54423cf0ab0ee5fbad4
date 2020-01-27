@@ -22,6 +22,30 @@
       "revId": "7e0e381f0ee9de3827d8e54423cf0ab0ee5fbad4",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "69fbfa27_7eedcccf",
+        "filename": "package.json",
+        "patchSetId": 3
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1011323
+      },
+      "writtenOn": "2020-01-27T19:13:26Z",
+      "side": 1,
+      "message": "It didn\u0027t work without it but apparently only because I missed to update the submodule.",
+      "parentUuid": "4f08ef04_36c12263",
+      "range": {
+        "startLine": 5,
+        "startChar": 0,
+        "endLine": 5,
+        "endChar": 62
+      },
+      "revId": "7e0e381f0ee9de3827d8e54423cf0ab0ee5fbad4",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }
