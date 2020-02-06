@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "72051621_c1f0829d",
+        "filename": "iron-test-helpers/iron-test-helpers_bridge.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1086906
+      },
+      "writtenOn": "2020-02-06T09:56:42Z",
+      "side": 1,
+      "message": "it seems more common to have js doc formatted as:\n\n```\n/**\n *\n *\n */\n```\n\nand it should have right syntax highlighting with that format as well.",
+      "revId": "395fb23434ca3ad02f3cea7ae33de4e60a2ad790",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
+    }
+  ]
+}
