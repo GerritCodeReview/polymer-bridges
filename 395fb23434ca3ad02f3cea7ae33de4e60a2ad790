@@ -16,6 +16,24 @@
       "revId": "395fb23434ca3ad02f3cea7ae33de4e60a2ad790",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3c972080_6476839c",
+        "filename": "iron-test-helpers/iron-test-helpers_bridge.js",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1085901
+      },
+      "writtenOn": "2020-02-10T13:57:21Z",
+      "side": 1,
+      "message": "Polymer has all @license comments in this format.",
+      "parentUuid": "72051621_c1f0829d",
+      "revId": "395fb23434ca3ad02f3cea7ae33de4e60a2ad790",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }
