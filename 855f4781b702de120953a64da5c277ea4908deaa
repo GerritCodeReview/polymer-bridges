@@ -46,6 +46,30 @@
       "revId": "855f4781b702de120953a64da5c277ea4908deaa",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "fa66f497_2eb57da0",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1085901
+      },
+      "writtenOn": "2020-02-13T22:31:32Z",
+      "side": 1,
+      "message": "I would expect, that it should work. Bridges allows to run old code without changes. But if you add new code, you can import necessary elements from node modules directly.\n\nBut I don\u0027t mind to add bridges",
+      "parentUuid": "57bfbd1b_1d6c45ed",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 67
+      },
+      "revId": "855f4781b702de120953a64da5c277ea4908deaa",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": true
     }
   ]
 }
