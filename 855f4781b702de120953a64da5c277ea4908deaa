@@ -70,6 +70,30 @@
       "revId": "855f4781b702de120953a64da5c277ea4908deaa",
       "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c5ab0cbd_ed0f0482",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1086906
+      },
+      "writtenOn": "2020-02-14T06:17:36Z",
+      "side": 1,
+      "message": "ya probably, haven\u0027t tried import paper-dialog js (as it doesn\u0027t support html import) to existing code. But i guess we can do html imports for now, and move all of them to js with import at the same time.",
+      "parentUuid": "fa66f497_2eb57da0",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 67
+      },
+      "revId": "855f4781b702de120953a64da5c277ea4908deaa",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
+      "unresolved": false
     }
   ]
 }
