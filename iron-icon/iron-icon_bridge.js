@@ -8,15 +8,6 @@ Code distributed by Google as part of the polymer project is also
 subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
 */
 
-/**
- * @fileoverview This file is a backwards-compatibility shim. Before Polymer
- *     converted to ES Modules, it wrote its API out onto the global Polymer
- *     object. The *_bridge.js files (like this one) maintain compatibility
- *     with that API.
- */
- 
-import '../polymer/lib/utils/boot_bridge.js';
-import '@polymer/iron-icon/iron-icon.js';
 
 goog.declareModuleId('HtmlImportsNamespace.IronIcon.IronIcon');
 
