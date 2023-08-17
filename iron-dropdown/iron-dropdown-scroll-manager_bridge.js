@@ -10,12 +10,6 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 
 /**
  * @fileoverview This file is a backwards-compatibility shim. Before Polymer
- *     converted to ES Modules, it wrote its API out onto the global Polymer
- *     object. The *_bridge.js files (like this one) maintain compatibility
- *     with that API.
- */
- 
-import '../polymer/lib/utils/boot_bridge.js';
 import {IronDropdownScrollManager} from '@polymer/iron-dropdown/iron-dropdown-scroll-manager.js';
 
 /** @const */
