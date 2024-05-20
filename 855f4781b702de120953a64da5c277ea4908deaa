@@ -1,6 +1,7 @@
 {
   "comments": [
     {
+      "unresolved": true,
       "key": {
         "uuid": "7f4536f0_8d3bbc29",
         "filename": "/COMMIT_MSG",
@@ -20,10 +21,10 @@
         "endChar": 67
       },
       "revId": "855f4781b702de120953a64da5c277ea4908deaa",
-      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
-      "unresolved": true
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": true,
       "key": {
         "uuid": "57bfbd1b_1d6c45ed",
         "filename": "/COMMIT_MSG",
@@ -44,10 +45,10 @@
         "endChar": 67
       },
       "revId": "855f4781b702de120953a64da5c277ea4908deaa",
-      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
-      "unresolved": true
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": true,
       "key": {
         "uuid": "fa66f497_2eb57da0",
         "filename": "/COMMIT_MSG",
@@ -68,10 +69,10 @@
         "endChar": 67
       },
       "revId": "855f4781b702de120953a64da5c277ea4908deaa",
-      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
-      "unresolved": true
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     },
     {
+      "unresolved": false,
       "key": {
         "uuid": "c5ab0cbd_ed0f0482",
         "filename": "/COMMIT_MSG",
@@ -92,8 +93,24 @@
         "endChar": 67
       },
       "revId": "855f4781b702de120953a64da5c277ea4908deaa",
-      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153",
-      "unresolved": false
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e2745451_b687a4be",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3430487
+      },
+      "writtenOn": "2024-05-20T19:58:16Z",
+      "side": 1,
+      "message": "855f4781b702de120953a64da5c277ea4908deaa",
+      "revId": "855f4781b702de120953a64da5c277ea4908deaa",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
     }
   ]
 }
