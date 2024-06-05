@@ -98,6 +98,30 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "1e21dfd9_8332e0ec",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 3430487
+      },
+      "writtenOn": "2024-06-05T10:16:10Z",
+      "side": 1,
+      "message": "\u003e ya probably, haven\u0027t tried import paper-dialog js (as it doesn\u0027t support html import) to existing code. But i guess we can do html imports for now, and move all of them to js with import at the same time.",
+      "parentUuid": "c5ab0cbd_ed0f0482",
+      "range": {
+        "startLine": 7,
+        "startChar": 0,
+        "endLine": 7,
+        "endChar": 67
+      },
+      "revId": "855f4781b702de120953a64da5c277ea4908deaa",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "e2745451_b687a4be",
         "filename": "/PATCHSET_LEVEL",
         "patchSetId": 2
@@ -107,6 +131,23 @@
         "id": 3430487
       },
       "writtenOn": "2024-05-20T19:58:16Z",
+      "side": 1,
+      "message": "855f4781b702de120953a64da5c277ea4908deaa",
+      "revId": "855f4781b702de120953a64da5c277ea4908deaa",
+      "serverId": "173816e5-2b9a-37c3-8a2e-48639d4f1153"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "28e54247_211086e7",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 3430487
+      },
+      "writtenOn": "2024-06-05T10:16:10Z",
       "side": 1,
       "message": "855f4781b702de120953a64da5c277ea4908deaa",
       "revId": "855f4781b702de120953a64da5c277ea4908deaa",
